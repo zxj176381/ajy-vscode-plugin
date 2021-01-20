@@ -19,6 +19,7 @@
 	"categories": [
 		"Other"
 	],
+	"icon": "images/logo.jpg",
 	"activationEvents": [
 		"onLanguage:*",
 		"onCommand:ajy-vscode.resources",
@@ -36,14 +37,6 @@
 				"title": "ajy-protocol"
 			}
 		],
-		"views": {
-			"explorer": [
-				{
-					"id": "viewId",
-					"name": "NPM Tools"
-				}
-			]
-		},
 		"configuration": {
 			"type": "object",
 			"title": "vscode-plugin-demo",
